@@ -1,0 +1,34 @@
+# 모든 매물 정보는 mock data이며 실재하지 않습니다.
+analysis_date: "2025-05-16"
+address: "서울특별시 마포구 망원동 123-45 무지개빌 402호"
+legal_dong: "망원동"
+listing_type: "전세"
+deposit: 240000000
+area_m2: 39.6
+floor: 4
+building_total_floors: 5
+building_type: "빌라"
+built_year: 2016
+management_fee: 70000
+nearest_subway:
+  line: "6호선"
+  station: "망원"
+  walk_min: 6
+source_url: "https://example.com/mock/mangwon-safe"
+agent_memo: "확정일자와 전입신고 가능. 보증보험 확인 가능하다고 안내받음."
+registry:
+  owner_name: "현재소유자(가명)"
+  owner_changes:
+    - date: "2021-03-10"
+      from: "이전소유자(가명)"
+      to: "현재소유자(가명)"
+      reason: "매매"
+  mortgages: []
+  total_max_bond: 0
+  seizures: []
+  trust:
+    exists: false
+    trustee: null
+  lease_registrations: []
+  earliest_priority_right: null
+  senior_deposit_total: null

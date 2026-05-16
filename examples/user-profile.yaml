@@ -1,0 +1,16 @@
+# Mock data for Skillathon. This profile does not describe a real person.
+max_deposit: 300000000
+max_monthly_rent: 900000
+want_jeonse_insurance: true
+move_in_date: "2025-07-01"
+pet:
+  has_pet: false
+  type: null
+workplace:
+  name: "서울시청 인근 직장"
+  address: "서울특별시 중구 세종대로 110"
+preferred_lines:
+  - "2호선"
+  - "5호선"
+  - "6호선"
+  - "9호선"

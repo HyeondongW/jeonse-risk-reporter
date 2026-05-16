@@ -1,0 +1,41 @@
+# 모든 매물 정보는 mock data이며 실재하지 않습니다.
+analysis_date: "2025-05-16"
+address: "서울특별시 강서구 화곡동 567-89 햇살빌라 301호"
+legal_dong: "화곡동"
+listing_type: "전세"
+deposit: 280000000
+area_m2: 38.0
+floor: 3
+building_total_floors: 5
+building_type: "빌라"
+built_year: 2012
+management_fee: 80000
+nearest_subway:
+  line: "5호선"
+  station: "화곡"
+  walk_min: 12
+source_url: "https://example.com/mock/hwagok-risky"
+agent_memo: "보증보험은 나중에 확인해도 되고 오늘 계약하면 조건을 맞춰주겠다는 식의 압박 영업이 있었음."
+registry:
+  owner_name: "현재소유자(가명)"
+  owner_changes:
+    - date: "2024-06-20"
+      from: "이전소유자(가명)"
+      to: "현재소유자(가명)"
+      reason: "매매"
+  mortgages:
+    - holder: "OO은행"
+      max_bond: 260000000
+      date: "2024-07-01"
+  total_max_bond: 260000000
+  seizures: []
+  trust:
+    exists: false
+    trustee: null
+  lease_registrations:
+    - date: "2024-02-15"
+      note: "이전 임차권등기명령 말소 이력"
+  earliest_priority_right:
+    date: "2024-07-01"
+    type: "근저당권"
+  senior_deposit_total: null

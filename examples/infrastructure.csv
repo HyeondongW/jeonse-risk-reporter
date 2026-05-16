@@ -1,0 +1,4 @@
+legal_dong,nearest_subway_line,nearest_subway_station,subway_walk_min,workplace_transit_min,workplace_transfer_count,mart_walk_min,convenience_walk_min,hospital_walk_min,park_walk_min
+망원동,6호선,망원,6,28,1,5,2,9,6
+화곡동,5호선,화곡,12,55,2,11,4,16,18
+신길동,1호선,신길,8,,,7,3,,12

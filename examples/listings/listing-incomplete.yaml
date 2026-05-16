@@ -1,0 +1,20 @@
+# 모든 매물 정보는 mock data이며 실재하지 않습니다.
+analysis_date: "2025-05-16"
+address: "서울특별시 영등포구 신길동 234-56 별빛오피스텔 1205호"
+legal_dong: "신길동"
+listing_type: "월세"
+deposit: 30000000
+monthly_rent: 850000
+area_m2: 24.3
+floor: 12
+building_total_floors: 15
+building_type: "오피스텔"
+built_year: 2019
+management_fee: 120000
+nearest_subway:
+  line: "1호선"
+  station: "신길"
+  walk_min: 8
+source_url: "https://example.com/mock/singil-incomplete"
+agent_memo: "등기부는 계약 직전에 보여주겠다고 안내받음."
+registry: null
